@@ -56,7 +56,7 @@ extension FunctionCalling.InputSchema.DataType {
         case .boolean:
             return .boolean
         case .array:
-            return .arrray
+            return .array
         case .object:
             return .object
         }
